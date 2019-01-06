@@ -35,6 +35,8 @@ rename "RagePluginHook.log" "RagePluginHookLog.txt"
 rename "startup.rphs" "startup.txt"
 rename "Logs" "Logsrage"
 rename "asiloader.log" "asiloader.txt"
+rename "Albo1125.Common.dll" "Albo1125.Common.dllNOPE"
+rename "RAGENativeUI.dll" "RAGENativeUI.dllNOPE"
 set/p<null =&cls&pause>null | set/p=Renamed. Press any key to undo.
 set/p<null =&cls&pause>null | set/p=Are you sure?
 cls
