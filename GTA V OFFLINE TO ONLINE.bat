@@ -39,6 +39,7 @@ rename "Albo1125.Common.dll" "Albo1125.Common.dllNOPE"
 rename "RAGENativeUI.dll" "RAGENativeUI.dllNOPE"
 rename "TurnSignals.asi" "TurnSignals.asiTXT"
 rename "TurnSignals.ini" "TurnSignals.txt"
+rename "AddonSpawner.asi" "AddonSpawner.asiTXT"
 set/p<null =&cls&pause>null | set/p=Renamed. Press any key to undo.
 set/p<null =&cls&pause>null | set/p=Are you sure?
 cls
