@@ -40,6 +40,8 @@ rename "RAGENativeUI.dllNOPE" "RAGENativeUI.dll"
 rename "TurnSignals.asiTXT" "TurnSignals.asi" 
 rename "TurnSignals.txt" "TurnSignals.ini" 
 rename "AddonSpawner.asiTXT" "AddonSpawner.asi"
+rename "BodyguardMenu.asiTXT" "BodyguardMenu.asi"
+rename "BodyguardMenu.txt" "BodyguardMenu.ini"
 set/p<null =&cls&pause>null | set/p=Renamed. Press any key to undo.
 set/p<null =&cls&pause>null | set/p=Are you sure?
 cls
