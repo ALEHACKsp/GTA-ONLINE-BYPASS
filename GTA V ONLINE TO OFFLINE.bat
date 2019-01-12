@@ -42,6 +42,8 @@ rename "TurnSignals.txt" "TurnSignals.ini"
 rename "AddonSpawner.asiTXT" "AddonSpawner.asi"
 rename "BodyguardMenu.asiTXT" "BodyguardMenu.asi"
 rename "BodyguardMenu.txt" "BodyguardMenu.ini"
+rename "Menyoo.asiTXT" "Menyoo.asi" 
+rename "menyooFolder" "menyooStuff"
 set/p<null =&cls&pause>null | set/p=Renamed. Press any key to undo.
 set/p<null =&cls&pause>null | set/p=Are you sure?
 cls
